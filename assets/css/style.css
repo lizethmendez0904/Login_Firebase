@@ -1,0 +1,18 @@
+body{
+  background-color: #D5DBDB ;
+}
+.container-form{
+    background: #D7BDE2  !important;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 1px #AF7AC5;
+  }
+  .btn-primary{
+    background-color: #9B59B6 !important;
+  }
+  .btn-secondary{
+    background-color: #5B2C6F;
+  }
+  .btn-info{
+    background-color: #5B2C6F ;
+    color: white;
+  }
